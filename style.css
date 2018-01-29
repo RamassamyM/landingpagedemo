@@ -1,0 +1,58 @@
+/* style général */
+body {
+  background-color: white;
+  color: #333333;
+}
+
+h1, h2, h3, h4, h5 {
+
+}
+
+a {
+  text-decoration: none;
+  color: #62b1ff;
+}
+
+a:hover {
+  color: #b994f8;
+}
+
+#logo {
+  height: 40px;
+}
+
+
+#navbar {
+  padding: 10px;
+}
+
+/* banner */
+
+#banner {
+  background-image: url('images/banner3.jpeg');
+  background-size: cover;
+  height: 400px;
+  padding: 50px;
+}
+
+
+/* section 4 colonnes */
+
+#perfumes {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+#perfumes p {
+  font-size: 12px;
+  margin-top: 20px;
+}
+
+
+
+/* inscription newsletter */
+
+
+
+/* footer*/
